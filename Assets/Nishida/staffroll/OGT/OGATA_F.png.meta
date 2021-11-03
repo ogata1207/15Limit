@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: cfc6bd69f71e4a749ba792a520ee1ed0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3448783057339523315
+    second: OGATA_F_0
+  - first:
+      213: 8941064756658397512
+    second: OGATA_F_1
+  - first:
+      213: 2923124516655505038
+    second: OGATA_F_2
+  - first:
+      213: -1948310964822711568
+    second: OGATA_F_3
+  - first:
+      213: -4820798778447396599
+    second: OGATA_F_4
+  - first:
+      213: 8394267458231550851
+    second: OGATA_F_5
+  - first:
+      213: 6022477074317443623
+    second: OGATA_F_6
+  - first:
+      213: 4126646365881466789
+    second: OGATA_F_7
+  - first:
+      213: -546801774336274737
+    second: OGATA_F_8
+  - first:
+      213: 1545943274974361950
+    second: OGATA_F_9
+  - first:
+      213: 840715963984073462
+    second: OGATA_F_10
+  - first:
+      213: 4601145946448295891
+    second: OGATA_F_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 420
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OGATA_F_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1547.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7235f21f78e78c1438e0a96b17d3f09d
+      internalID: -3448783057339523315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1547.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24134f3f144f8554289d304bc7f04fd9
+      internalID: 8941064756658397512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1547.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c72bda7b1e8746438a78d2b9f18b367
+      internalID: 2923124516655505038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032afe64d8dcb3042b2843035be869f3
+      internalID: -1948310964822711568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1032.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4641f1cc799414fb7d57bee9247d59
+      internalID: -4820798778447396599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1032.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e3269766dece34887129a0bcc9afdc
+      internalID: 8394267458231550851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80a701f25f57c45acf62e94a3043df
+      internalID: 6022477074317443623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 517.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b5161a42d8934a9d606bbfa870471
+      internalID: 4126646365881466789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_8
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 517.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70fa1d860d18f4a8ccb5ece8d394a1
+      internalID: -546801774336274737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba11ac11439d7a41baa857c9b47e816
+      internalID: 1545943274974361950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430de828729055f4eab7c9380ae78e98
+      internalID: 840715963984073462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGATA_F_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 2.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b85664fc4e57f40ac78c9dc066d596
+      internalID: 4601145946448295891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 7fb32a56ccba4334da0efcf2645bbd7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3439045661534019477
+    second: OSAKI_F_0
+  - first:
+      213: 3026175117111356597
+    second: OSAKI_F_1
+  - first:
+      213: 9190861084049485777
+    second: OSAKI_F_2
+  - first:
+      213: -929420415697239870
+    second: OSAKI_F_3
+  - first:
+      213: -6989669787959768884
+    second: OSAKI_F_4
+  - first:
+      213: 7292885809069536489
+    second: OSAKI_F_5
+  - first:
+      213: -1351616124114832842
+    second: OSAKI_F_6
+  - first:
+      213: 903894621030802183
+    second: OSAKI_F_7
+  - first:
+      213: 2251214100585811710
+    second: OSAKI_F_8
+  - first:
+      213: -7476521211803177072
+    second: OSAKI_F_9
+  - first:
+      213: -141844028957772490
+    second: OSAKI_F_10
+  - first:
+      213: 1021718705566340388
+    second: OSAKI_F_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 420
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OSAKI_F_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1547.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f36fac58d405e74084cf6db0c47dabd
+      internalID: -3439045661534019477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1547.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f8d8c223549b4c8793e571e7580ff
+      internalID: 3026175117111356597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1547.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4655194e92f77af48b0c47648920238f
+      internalID: 9190861084049485777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32228861bf5a2c3468eb5715bee2a43b
+      internalID: -929420415697239870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1032.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee24228b95dab4c8e52ae32da06cf6
+      internalID: -6989669787959768884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1032.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f610a1a9b03f942ab70fdb665df2b7
+      internalID: 7292885809069536489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1330369bdde45145b7138a78682d548
+      internalID: -1351616124114832842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 517.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b069251b375e36f449ec7995a1ae8641
+      internalID: 903894621030802183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_8
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 517.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d148a74bc62ab34fafd5f4ff5a60723
+      internalID: 2251214100585811710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89548375e68545c4e9cba2b07fc40410
+      internalID: -7476521211803177072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04cd110f3354c948acf83b73c16c3c5
+      internalID: -141844028957772490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OSAKI_F_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 2.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2015e88139fc3514b9273a8d93eb6c42
+      internalID: 1021718705566340388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

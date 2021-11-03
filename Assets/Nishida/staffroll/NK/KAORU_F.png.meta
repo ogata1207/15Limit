@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: d2f6f8c70175de54caa44ed7949e87ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 821112027867921499
+    second: KAORU_F_0
+  - first:
+      213: 6397150887559493457
+    second: KAORU_F_1
+  - first:
+      213: -6231030345366116425
+    second: KAORU_F_2
+  - first:
+      213: 1960472508966755421
+    second: KAORU_F_3
+  - first:
+      213: 8703872013643401251
+    second: KAORU_F_4
+  - first:
+      213: -2999623041676741769
+    second: KAORU_F_5
+  - first:
+      213: -1338658467171559062
+    second: KAORU_F_6
+  - first:
+      213: 8645127622007328912
+    second: KAORU_F_7
+  - first:
+      213: 1774383964182465221
+    second: KAORU_F_8
+  - first:
+      213: -8083164485353453809
+    second: KAORU_F_9
+  - first:
+      213: -6467111394244502857
+    second: KAORU_F_10
+  - first:
+      213: 7352361962056785165
+    second: KAORU_F_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 420
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KAORU_F_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1547.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2c1e6c8934ec444afe33e9e688895e
+      internalID: 821112027867921499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1547.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62931474242f9c4881f03e8dbafc171
+      internalID: 6397150887559493457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1547.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5567b81b38399f24196cf5c59ee5afd8
+      internalID: -6231030345366116425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808078d5085517449c99e9e68d024cf
+      internalID: 1960472508966755421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1032.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b77069d17bddc84f8d1c0591e68e51a
+      internalID: 8703872013643401251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1032.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e17dd07f07e354fb16f9dbd8e182bc
+      internalID: -2999623041676741769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0975eb757d7d714b8d5b31e9e8e2132
+      internalID: -1338658467171559062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 517.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db63972988162dc49ab2bf1e95020078
+      internalID: 8645127622007328912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_8
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 517.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856bb7e7a28bca489605640f34d70bc
+      internalID: 1774383964182465221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9d72fa4e640c4eaaf50e07ed44591
+      internalID: -8083164485353453809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c1bfe85b22ed449b4c5c6691be1f4
+      internalID: -6467111394244502857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAORU_F_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 2.25
+        width: 486
+        height: 515.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f289ea1eb41de47a03e9d2ce4e15a7
+      internalID: 7352361962056785165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
